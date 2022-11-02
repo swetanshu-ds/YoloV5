@@ -2,4 +2,4 @@
 
 
 
-RUN this .ipynb file in colab
+RUN this Yolov5_Inferencing.ipynb file in colab
